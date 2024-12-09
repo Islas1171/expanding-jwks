@@ -17,15 +17,14 @@ Python 3.10+
 pip for installing dependencies
 # Project Setup
 Step 1: Clone the Repository
-git clone https://github.com/your-username/jwks-server.git
 cd jwks-server
 Step 2: Create a Virtual Environment
 python -m venv .venv
-.venv\Scripts\activate # For Windows
+.venv\Scripts\activate
 Step 3: Set Up Environment Variables
 Define the environment variable NOT_MY_KEY for AES encryption:
 
-set NOT_MY_KEY=Super_SecretKey           # For Windows
+set NOT_MY_KEY=Super_SecretKey     
 Step 5: Initialize the Database
 Run the server script to initialize the database tables:
 
@@ -48,3 +47,8 @@ Ensure NOT_MY_KEY is set in your environment before running the server.
 SQL logic error: no such table
 
 Ensure the database is initialized by running python project3.py.
+![image](https://github.com/user-attachments/assets/cc1e60cc-f15a-4e1f-ab84-5e5354fe9d28)
+
+![image](https://github.com/user-attachments/assets/4fa203e7-f9c0-4c82-b0a8-ff3270c612a5)
+
+![image](https://github.com/user-attachments/assets/890dea6a-b534-49a7-8975-dc9280e87772)
