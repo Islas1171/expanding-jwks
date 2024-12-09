@@ -51,4 +51,7 @@ Ensure the database is initialized by running python project3.py.
 
 ![image](https://github.com/user-attachments/assets/4fa203e7-f9c0-4c82-b0a8-ff3270c612a5)
 
+![image](https://github.com/user-attachments/assets/ce7ecde8-e28d-42c2-acc5-1c4b1328e2cf)
+
+
 ![image](https://github.com/user-attachments/assets/890dea6a-b534-49a7-8975-dc9280e87772)
